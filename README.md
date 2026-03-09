@@ -1,4 +1,4 @@
-# Bayes' Test
+# Bayes' Test with undateable prior
 
 Test positive for that nasty dose of something? Well fear not, here's a simple Bayesian test to see if you actually have it! 
 
