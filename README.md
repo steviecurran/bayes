@@ -26,6 +26,3 @@ A second positive test increases this to approximately 71%, while a subsequent n
 ### Important caveat
 
 This example assumes the prior probability is based only on population prevalence. In real clinical settings, symptoms, exposure history and other evidence would change the prior probability before any test result is considered.
-
-
-
