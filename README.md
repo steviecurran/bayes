@@ -8,5 +8,6 @@ E.g. the classic medical testing problem - if the true positive rate is 99% and 
 
 But if only 0.1% of the population have the disease, there's only a 4.7% chance you actually have it, so not that bad<sup>*</sup> (a second positive test will put this at 71% and a negative test at 0.051%).
 
+---
 <sup>*</sup>Something that's never pointed out, as far as I know, is that this assumes that you don't exhibit symptoms specific to the ailment in question. Still good for spotting an unfair coin though!
 
